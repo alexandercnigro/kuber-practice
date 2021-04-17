@@ -1,0 +1,12 @@
+- [] hello world
+- [] simple apps that communicate
+- [] kubernetes service layers
+- [] daemonsets
+- [] replicasets/scaling
+- [] statefulsets
+- [] secrets
+- [] ingress routing
+- [] configmaps
+- [] volume mounting
+- [] node manipulation
+- [] kubernetes API
